@@ -1,2 +1,2 @@
-# m5-1
-This is a Keijiban which I made at tech-base's internship.
+# m5-2
+Tech-Baseのインターンシップにて作った掲示板です。
