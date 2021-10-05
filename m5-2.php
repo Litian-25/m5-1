@@ -146,7 +146,7 @@
         //selectとforeachでidとパスワード逐次探索しとく？
                 $id = $_POST["delete"];
                 $password = $_POST["password02"];
-                $sql = 'SELECT * FROM Keijiban2';
+                $sql = 'SELECT * FROM Keijiban3';
                 $stmt = $pdo->query($sql);
                 $results = $stmt->fetchAll();
                 foreach($results as $row){
