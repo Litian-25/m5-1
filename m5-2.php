@@ -23,7 +23,7 @@
      .filter {
         width: 100%;
         height: 100%;
-        color: lime;
+        color: black;
         position: fixed;
         overflow-y: scroll;
     }
